@@ -1,0 +1,6 @@
+fastapi[all]
+Pillow
+python-multipart
+torch
+transformers
+ipykernel
